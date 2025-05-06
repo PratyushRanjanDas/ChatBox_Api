@@ -4,7 +4,6 @@ A simple, interactive frontend chat interface using HTML, CSS, and JavaScript. T
 
 ## 📁 Project Structure
 
-CHATBOX_API
 .
 ├── IMG
 │   ├── aiImage.jpeg
