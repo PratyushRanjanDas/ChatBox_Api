@@ -3,7 +3,7 @@ let chatContainer =document.querySelector(".chat-container");
 let imgButton =document.querySelector("#image");
 let imgInput =document.querySelector("#image input");
 let image =document.querySelector("#image img");
-let submitButton = document.querySelector("#submit"); // Get submit button
+let submitButton = document.querySelector("#submit"); 
 
 const apiUrl = "https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=<ENTER_API_KEY>";
 
