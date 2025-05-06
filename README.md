@@ -4,17 +4,18 @@ A simple, interactive frontend chat interface using HTML, CSS, and JavaScript. T
 
 ## 📁 Project Structure
 
-.
-├── IMG
-│   ├── aiImage.jpeg
-│   ├── arrrow.svg
-│   ├── loading.gif
-│   ├── picture.svg
-│   └── UserImage.png
-├── index.html
-├── README.md
-├── script.js
-└── style.css
+```
+├── IMG/ # Image assets for UI
+│ ├── aiImage.jpeg # Bot avatar
+│ ├── arrrow.svg # Icon for send button or navigation
+│ ├── loading.gif # Loading animation
+│ ├── picture.svg # Placeholder or image upload icon
+│ └── UserImage.png # User avatar
+├── index.html # Main UI structure
+├── script.js # Logic for chat interaction
+├── style.css # Styling for the chatbot interface
+└── README.md # Project documentation
+```
 
 ## ✨ Features
 
